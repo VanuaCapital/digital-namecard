@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Gerald V.;Caliman;;;
+FN: Gerald V. Caliman 
+ORG:Vanua Capital;
+TITLE:Owner
+EMAIL;type=INTERNET;type=WORK;type=pref:VanuaCapital@outlook.com
+TEL;type=WORK;type=VOICE:+21 5397 3979
+item1.ADR;type=WORK;type=pref:;;885 n 48th St. Philadelphia,19139;;;Pa;USA
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:VanuaCapital.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
